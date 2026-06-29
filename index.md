@@ -2,7 +2,7 @@
 
 A single-page personal portfolio built to showcase my data analytics projects, technical skills, and experience.
 
-🔗 **Live site:** _add your GitHub Pages link here once deployed_
+🔗 **Live site:** https://github.com/Yash27-byte/portfolio/tree/main
 
 ## About
 
